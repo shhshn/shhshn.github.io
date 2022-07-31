@@ -1,0 +1,24 @@
+
+title: Sho Hoshino
+description: >- # this means to ignore newlines until "baseurl:"
+  My personal website
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shhshn.github.io/" # the base hostname & protocol for your site
+author:
+    github: shhshn
+    googlescholar: https://scholar.google.com/citations?user=ZO2_7l0AAAAJ
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-remote-theme
+#theme: minima
+remote_theme: jekyll/minima
+minima:
+    skin: dark
+header_pages:
+  - index.md
+  - papers.md
+  - software.md
+  - cv.md
+exclude:
+- _trash
