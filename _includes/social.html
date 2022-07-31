@@ -1,0 +1,9 @@
+
+<ul class="social-media-list">
+  {%- if site.author.github -%}
+  <li><a href="https://github.com/{{ site.author.github | cgi_escape | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> GitHub</a></li>
+  {%- endif -%}
+  {% if site.author.googlescholar %}
+  <li><a href="{{ site.author.googlescholar }}">🎓 Google Scholar</a></li>
+  {% endif %}
+</ul>

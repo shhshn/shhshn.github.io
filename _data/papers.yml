@@ -1,0 +1,156 @@
+
+- title: "Cross-lingual Transfer or Machine Translation? On Data Augmentation for Monolingual Semantic Textual Similarity"
+  author: <ins>Sho Hoshino</ins>, Akihiko Kato, Soichiro Murakami, Peinan Zhang
+  conference: LREC-COLING2024
+  link: https://aclanthology.org/2024.lrec-main.371/
+  bibtex: |
+    bibtex
+    @inproceedings{hoshino-etal-2024-cross-lingual,
+    title = "Cross-lingual Transfer or Machine Translation? On Data Augmentation for Monolingual Semantic Textual Similarity",
+    author = "Hoshino, Sho  and
+      Kato, Akihiko  and
+      Murakami, Soichiro  and
+      Zhang, Peinan",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
+    year = "2024",
+    pages = "4164--4173",
+    url = "https://aclanthology.org/2024.lrec-main.371",
+    }
+- title: "A Single Linear Layer Yields Task-Adapted Low-Rank Matrices"
+  author: Hwichan Kim, Shota Sasaki, <ins>Sho Hoshino</ins>, Ukyo Honda
+  conference: LREC-COLING2024
+  link: https://aclanthology.org/2024.lrec-main.141/
+  bibtex: |
+    bibtex
+    @inproceedings{kim-etal-2024-single-linear,
+    title = "A Single Linear Layer Yields Task-Adapted Low-Rank Matrices",
+    author = "Kim, Hwichan  and
+      Sasaki, Shota  and
+      Hoshino, Sho  and
+      Honda, Ukyo",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
+    year = "2024",
+    pages = "1602--1608",
+    url = "https://aclanthology.org/2024.lrec-main.141",
+    }
+- title: "Aspect-based Analysis of Advertising Appeals for Search Engine Advertising"
+  author: Soichiro Murakami, Peinan Zhang, <ins>Sho Hoshino</ins>, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
+  conference: NAACL-HLT2022 Industry Track
+  link: https://aclanthology.org/2022.naacl-industry.9/
+  bibtex: |
+    bibtex
+    @inproceedings{murakami-etal-2022-aspect,
+    title = "Aspect-based Analysis of Advertising Appeals for Search Engine Advertising",
+    author = "Murakami, Soichiro  and
+      Zhang, Peinan  and
+      Hoshino, Sho  and
+      Kamigaito, Hidetaka  and
+      Takamura, Hiroya  and
+      Okumura, Manabu",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track",
+    year = "2022",
+    pages = "69--78",
+    url = "https://aclanthology.org/2022.naacl-industry.9",
+    }
+- title: "FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation"
+  author: Akihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, <ins>Sho Hoshino</ins>, Peinan Zhang
+  conference: arXiv preprint
+  link: https://arxiv.org/abs/2410.03839
+  bibtex: |
+    bibtex
+    @misc{kato-etal-2024-faithcamera,
+    title={{FaithCAMERA}: Construction of a Faithful Dataset for Ad Text Generation}, 
+    author={Akihiko Kato and Masato Mita and Soichiro Murakami and Ukyo Honda and Sho Hoshino and Peinan Zhang},
+    year={2024},
+    eprint={2410.03839},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2410.03839}, 
+    }
+- title: "Natural Language Generation for Advertising: A Survey"
+  author: Soichiro Murakami, <ins>Sho Hoshino</ins>, Peinan Zhang
+  conference: arXiv preprint
+  link: https://arxiv.org/abs/2306.12719
+  bibtex: |
+    bibtex
+    @misc{murakami2023naturallanguagegenerationadvertising,
+    title={Natural Language Generation for Advertising: A Survey}, 
+    author={Soichiro Murakami and Sho Hoshino and Peinan Zhang},
+    year={2023},
+    eprint={2306.12719},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2306.12719}, 
+    }
+- title: "Discriminative Preordering Meets Kendall’s Tau Maximization"
+  author: <ins>Sho Hoshino</ins>, Yusuke Miyao, Katsuhito Sudoh, Katsuhiko Hayashi, Masaaki Nagata
+  conference: ACL-IJCNLP2015
+  link: https://aclanthology.org/P15-2023/
+  bibtex: |
+    bibtex
+    @inproceedings{hoshino-etal-2015-discriminative,
+    title = "Discriminative Preordering Meets Kendall{'}s $\tau$ Maximization",
+    author = "Hoshino, Sho  and
+      Miyao, Yusuke  and
+      Sudoh, Katsuhito  and
+      Hayashi, Katsuhiko  and
+      Nagata, Masaaki",
+    booktitle = "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing",
+    year = "2015",
+    pages = "139--144",
+    url = "https://aclanthology.org/P15-2023",
+    }
+- title: Japanese to English Machine Translation using Preordering and Compositional Distributed Semantics
+  author: <ins>Sho Hoshino</ins>, Hubert Soyer, Yusuke Miyao, Akiko Aizawa
+  conference: WAT2014
+  link: https://aclanthology.org/W14-7008/
+  bibtex: |
+    bibtex
+    @inproceedings{hoshino-etal-2014-japanese,
+    title = "{J}apanese to {E}nglish Machine Translation using Preordering and Compositional Distributed Semantics",
+    author = "Hoshino, Sho  and
+      Soyer, Hubert  and
+      Miyao, Yusuke  and
+      Aizawa, Akiko",
+    booktitle = "Proceedings of the 1st Workshop on {A}sian Translation",
+    year = "2014",
+    pages = "55--63",
+    url = "https://aclanthology.org/W14-7008",
+    }
+- title: Two-stage Pre-ordering for Japanese-to-English Statistical Machine Translation
+  author: <ins>Sho Hoshino</ins>, Yusuke Miyao, Katsuhito Sudoh, Masaaki Nagata
+  conference: IJCNLP2013
+  link: https://aclanthology.org/I13-1147/
+  bibtex: |
+    bibtex
+    @inproceedings{hoshino-etal-2013-two,
+    title = "Two-Stage Pre-ordering for {J}apanese-to-{E}nglish Statistical Machine Translation",
+    author = "Hoshino, Sho  and
+      Miyao, Yusuke  and
+      Sudoh, Katsuhito  and
+      Nagata, Masaaki",
+    booktitle = "Proceedings of the 6th International Joint Conference on Natural Language Processing",
+    year = "2013",
+    pages = "1062--1066",
+    url = "https://aclanthology.org/I13-1147",
+    }
+- title: NTT-NII Statistical Machine Translation for NTCIR-10 PatentMT
+  author: Katsuhito Sudoh, Jun Suzuki, Hajime Tsukada, Masaaki Nagata, <ins>Sho Hoshino</ins>, Yusuke Miyao
+  conference: NTCIR-10 (2013)
+#  link: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/NTCIR/toc_ntcir.html#PATENTMT
+  link: https://ir.webis.de/anthology/2013.ntcir_conference-2013.58/
+  bibtex: |
+    bibtex
+    @inproceedings{sudoh-2013-nttnii,
+    author    = {Katsuhito Sudoh and
+               Jun Suzuki and
+               Hajime Tsukada and
+               Masaaki Nagata and
+               Sho Hoshino and
+               Yusuke Miyao},
+    title = "{NTT-NII} Statistical Machine Translation for {NTCIR-10 PatentMT}",
+    booktitle = "Proceedings of the 10th {NTCIR} Conference on Evaluation of Information Access Technologies",
+    year = "2013",
+    pages = "294--300",
+    url = "http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/03-NTCIR10-PATENTMT-SudohK.pdf",
+    }
