@@ -1,0 +1,10 @@
+
+<ul class="social-media-list">
+  {%- if site.author.github -%}
+  <li><a href="https://github.com/{{ site.author.github | cgi_escape | escape }}">💻 GitHub</a></li>
+  {%- endif -%}
+  {% if site.author.googlescholar %}
+  <li><a href="{{ site.author.googlescholar }}">🎓 Google Scholar</a></li>
+  {% endif %}
+  <!-- DEBUG: Header Pages: {{ site.header_pages | join: ", " }} -->
+</ul>
